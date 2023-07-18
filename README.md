@@ -1,4 +1,4 @@
-# air Quality & Machine Learning Using Classification and Time-Series Methods
+# Air Quality & Machine Learning Using Classification and Time-Series Methods
 
 ```bibtex
 @article{farhadi2023machine,
