@@ -1,6 +1,6 @@
 # Two publications have been published for Air Quality & Machine Learning Using Classification and Time-Series Methods. Please use the following citations for citing the code. 
 
-# Publication 1 in "Machine Learning for Transport Policy Interventions on Air Quality": https://ieeexplore.ieee.org/document/10114913
+## Publication 1 in "Machine Learning for Transport Policy Interventions on Air Quality": https://ieeexplore.ieee.org/document/10114913
 
 ```bibtex
 @article{farhadi2023machine,
@@ -12,7 +12,7 @@
 }
 ```
 
-# Publication 2 in "Data-driven framework for validating policies: Air quality case study": https://ieeexplore.ieee.org/abstract/document/9922587
+## Publication 2 in "Data-driven framework for validating policies: Air quality case study": https://ieeexplore.ieee.org/abstract/document/9922587
 
 ```bibtex
 @inproceedings{farhadi2022data,
