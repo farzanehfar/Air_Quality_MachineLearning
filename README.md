@@ -49,28 +49,28 @@ This repository is organized into the following sections:
 1. Preprocessing (Data Cleaning)
 This module is responsible for cleaning and preparing the raw air quality data for analysis. It includes:
 
-## a) Handling Missing Values: Missing values in the dataset are handled appropriately, either through imputation or removal, depending on the context.
-## b) Normalization/Standardization: The data is normalized or standardized to ensure consistency across different features.
-## c) Feature Engineering: Additional features are created to enhance the predictive power of the models.
+* Handling Missing Values: Missing values in the dataset are handled appropriately, either through imputation or removal, depending on the context. 
+* Normalization/Standardization: The data is normalized or standardized to ensure consistency across different features.
+* Feature Engineering: Additional features are created to enhance the predictive power of the models.
 
 2. Visualization
 In this section, the cleaned data is visualized to identify patterns, trends, and anomalies. The following types of plots and graphs are generated:
 
-a) Time Series Plots: Visualize changes in air quality over time.
-b) Histograms: Examine the distribution of air quality levels.
+* Time Series Plots: Visualize changes in air quality over time.
+* Histograms: Examine the distribution of air quality levels.
 
 3. Classification
 This module applies machine learning classification algorithms to predict air quality levels based on the preprocessed data. The steps include:
 
-a) Data Splitting: The data is split into training and testing sets.
-b) Model Training: Various classification models (e.g., Decision Trees, SVM, Random Forest) are trained on the training data.
-c) Model Evaluation: The models are evaluated on the test data using metrics such as accuracy, precision, recall, and F1-score.
-d) Model Comparison: Performance metrics of different models are compared to select the best-performing model.
+* Data Splitting: The data is split into training and testing sets.
+* Model Training: Various classification models (e.g., Decision Trees, SVM, Random Forest) are trained on the training data.
+* Model Evaluation: The models are evaluated on the test data using metrics such as accuracy, precision, recall, and F1-score.
+* Model Comparison: Performance metrics of different models are compared to select the best-performing model.
 
 4. Time Series Analysis
 Time series models are applied to predict future air quality levels based on historical data. This section includes:
 
-a) Model Selection: Time series models such as LSTM is selected based on the data characteristics.
-b) Training and Validation: The selected models are trained on historical data and validated using a portion of the dataset.
-c) Forecasting: The trained models are used to predict future air quality trends, and their performance is evaluated.
+* Model Selection: Time series models such as LSTM is selected based on the data characteristics.
+* Training and Validation: The selected models are trained on historical data and validated using a portion of the dataset.
+* Forecasting: The trained models are used to predict future air quality trends, and their performance is evaluated.
 
