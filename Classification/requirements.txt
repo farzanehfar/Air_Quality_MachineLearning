@@ -1,0 +1,13 @@
+pip install -r requirements.txt
+
+### `requirements.txt`
+
+```plaintext
+pandas
+numpy
+scikit-learn
+yellowbrick
+matplotlib
+tensorflow
+keras
+seaborn
