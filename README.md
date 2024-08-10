@@ -49,9 +49,9 @@ This repository is organized into the following sections:
 1. Preprocessing (Data Cleaning)
 This module is responsible for cleaning and preparing the raw air quality data for analysis. It includes:
 
-a) Handling Missing Values: Missing values in the dataset are handled appropriately, either through imputation or removal, depending on the context.
-b) Normalization/Standardization: The data is normalized or standardized to ensure consistency across different features.
-c) Feature Engineering: Additional features are created to enhance the predictive power of the models.
+## a) Handling Missing Values: Missing values in the dataset are handled appropriately, either through imputation or removal, depending on the context.
+## b) Normalization/Standardization: The data is normalized or standardized to ensure consistency across different features.
+## c) Feature Engineering: Additional features are created to enhance the predictive power of the models.
 
 2. Visualization
 In this section, the cleaned data is visualized to identify patterns, trends, and anomalies. The following types of plots and graphs are generated:
