@@ -46,28 +46,28 @@ Ensure that the data is saved in the data/ directory of this repository with the
 # Project Structure
 This repository is organized into the following sections:
 
-1. Preprocessing (Data Cleaning)
+### 1. Preprocessing (Data Cleaning)
 This module is responsible for cleaning and preparing the raw air quality data for analysis. It includes:
 
 * Handling Missing Values: Missing values in the dataset are handled appropriately, either through imputation or removal, depending on the context. 
 * Normalization/Standardization: The data is normalized or standardized to ensure consistency across different features.
-* Feature Engineering: Additional features are created to enhance the predictive power of the models.
 
-2. Visualization
+
+### 2. Visualization
 In this section, the cleaned data is visualized to identify patterns, trends, and anomalies. The following types of plots and graphs are generated:
 
 * Time Series Plots: Visualize changes in air quality over time.
 * Histograms: Examine the distribution of air quality levels.
 
-3. Classification
+### 3. Classification
 This module applies machine learning classification algorithms to predict air quality levels based on the preprocessed data. The steps include:
 
 * Data Splitting: The data is split into training and testing sets.
 * Model Training: Various classification models (e.g., Decision Trees, SVM, Random Forest) are trained on the training data.
 * Model Evaluation: The models are evaluated on the test data using metrics such as accuracy, precision, recall, and F1-score.
-* Model Comparison: Performance metrics of different models are compared to select the best-performing model.
 
-4. Time Series Analysis
+
+### 4. Time Series Analysis
 Time series models are applied to predict future air quality levels based on historical data. This section includes:
 
 * Model Selection: Time series models such as LSTM is selected based on the data characteristics.
