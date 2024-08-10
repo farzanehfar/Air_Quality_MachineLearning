@@ -15,9 +15,20 @@ This repository contains the code and data for the following publications on air
      year={2023},
      publisher={IEEE}
    }
+   
 2. **Data-driven framework for validating policies: Air quality case study**
 Published in the 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)
  [Access the publication](https://ieeexplore.ieee.org/abstract/document/9922587)
+
+ ```bibtex
+@inproceedings{farhadi2022data,
+  title={Data-driven framework for validating policies: Air quality case study},
+  author={Farhadi, Farzaneh and Palacin, Roberto and Blythe, Phil},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={237--243},
+  year={2022},
+  organization={IEEE}
+}
 
 
 # Data Source
