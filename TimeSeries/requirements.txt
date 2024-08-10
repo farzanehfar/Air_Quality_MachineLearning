@@ -1,0 +1,11 @@
+pip install -r requirements.txt
+
+### `requirements.txt` in `TimeSeries/`
+
+```plaintext
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow
+keras
