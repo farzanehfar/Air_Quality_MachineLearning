@@ -62,7 +62,7 @@ In this section, the cleaned data is visualized to identify patterns, trends, an
 This module applies machine learning classification algorithms to predict air quality levels based on the preprocessed data. The steps include:
 
 * Data Splitting: The data is split into training and testing sets.
-* Model Training: Various classification models (e.g., Decision Trees, SVM, Random Forest) are trained on the training data.
+* Model Training: Various classification models (Decision Trees, LGBM, KNN and GradientBoosting) are trained on the training data.
 * Model Evaluation: The models are evaluated on the test data using metrics such as accuracy, precision, recall, and F1-score.
 
 
