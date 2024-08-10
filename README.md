@@ -34,9 +34,8 @@ Published in the 2022 IEEE 25th International Conference on Intelligent Transpor
 # Data Source 
 The data used in this project can be downloaded from the Newcastle Urban Observatory. We utilized air quality data for the year 2018, which can be accessed from the following link:
 
-[Download Data](https://newcastle.urbanobservatory.ac.uk/data/agg/3600/years/2018)
 Instructions for Downloading the Data:
-1. Visit the link: Newcastle Urban Observatory Data
+1. Visit the link: [Download Data](https://newcastle.urbanobservatory.ac.uk/data/agg/3600/years/2018), Newcastle Urban Observatory Data.
 2. Select the desired parameters: On the webpage, you can choose specific parameters such as air quality, traffic, and weather if necessary.
 3. Download the data: After setting your parameters, click on the download button to obtain the CSV file(s).
 
