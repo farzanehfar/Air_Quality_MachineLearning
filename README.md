@@ -37,7 +37,7 @@ The data used in this project can be downloaded from the Newcastle Urban Observa
 [Download Data](https://newcastle.urbanobservatory.ac.uk/data/agg/3600/years/2018)
 Instructions for Downloading the Data:
 1. Visit the link: Newcastle Urban Observatory Data
-2. Select the desired parameters: On the webpage, you can choose specific parameters such as pollutants, and time intervals if necessary.
+2. Select the desired parameters: On the webpage, you can choose specific parameters such as air quality, traffic, and weather if necessary.
 3. Download the data: After setting your parameters, click on the download button to obtain the CSV file(s).
 
 Note:
